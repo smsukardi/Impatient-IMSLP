@@ -34,7 +34,7 @@ function addDownloadButton() {
 
   //Creates a button to download pdf
   var $button = document.createElement('button');
-  $button.innerText = 'Download PDF';
+  $button.innerText = 'Open PDF';
 
   $getFirst.parentNode.insertBefore($button, $getFirst);
   $getFirst.parentNode.removeChild($getFirst)
