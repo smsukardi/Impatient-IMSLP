@@ -9,4 +9,4 @@ This extension adds a button which gives a link to download the pdf without havi
 I'm not usually one to dedicate apps (lol), but this one's for Nicolo Paganini, whose concertos I was trying (miserably) to sightread on IMSLP motivated this extension!
 
 ## Developers
-Just good 'ol me, <a href="github.com/smsukardi">Sarah</a> :)
+Just good 'ol me, <a href="http://github.com/smsukardi">Sarah</a> :)
