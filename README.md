@@ -10,3 +10,6 @@ I'm not usually one to dedicate apps (lol), but this one's for Nicolo Paganini, 
 
 ## Developers
 Just good 'ol me, <a href="http://github.com/smsukardi">Sarah</a> :)
+
+## Live
+Download it from the Chrome App Store <a href = "https://chrome.google.com/webstore/detail/impatient-imslp/jbkelkchcmmkhnhoekdcfbflmabnhpji"> Here! </a>
