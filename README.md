@@ -1,4 +1,4 @@
-#Impatient IMSLP: A Chrome Extension
+# Impatient IMSLP: A Chrome Extension
 
 ## About
 I decided my first javascript project would be a little chrome extension dealing with a pesky problem for classical musicians: the 15-second IMSLP waiting time.
